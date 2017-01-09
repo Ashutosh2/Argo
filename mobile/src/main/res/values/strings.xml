@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArGo</string>
+    <string name="title_activity_main_intro">MainIntroActivity</string>
+    <string name="title_activity_test">testActivity</string>
+</resources>
